@@ -1,6 +1,6 @@
 # Online Shopping Database
 
-![Project Screenshot](project.png)
+![Project Screenshot](project.png.png)
 
 ## Technologies Used
 - SQL
