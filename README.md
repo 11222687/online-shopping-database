@@ -1,5 +1,7 @@
 # Online Shopping Database
 
+![Project Screenshot](project.png)
+
 ## Technologies Used
 - SQL
 - MySQL Workbench
